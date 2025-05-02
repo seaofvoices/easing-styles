@@ -1,0 +1,9 @@
+{
+  "name": "easing-styles",
+  "tree": {
+    "$path": "src",
+    "node_modules": {
+      "$path": "node_modules"
+    }
+  }
+}
